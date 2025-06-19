@@ -24,8 +24,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 -how would I know if this link actually works?-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-OMG WTH is the solution URL?! I have no idea! 
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://meddifera.github.io/frontendMentorRecipePage/))
+OMG WTH is the solution URL?! I have no idea! Ok so I did some github pages thing and I got the page running but the image was missing. So then I uploaded a whole bunch of fonts and image but there's no changes to the page. It is what is I guess. Future thanks for any magic internet people who will nicely help this clueless dingo but I'll most probably forget about it and come back to the same issue. *sigh*
 
 ## My process
 
